@@ -5,5 +5,3 @@ Hello there 👋
 
 👀 I’m interested in Basketball | Programming | Computer Games
 
-😄 Pronouns: He/Him
-
