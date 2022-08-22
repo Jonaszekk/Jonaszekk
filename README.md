@@ -5,7 +5,7 @@ Hello there 👋
 
 
 
-🌱 I’m currently learning : Js / Python / CSS <br />
-📫 How to reach me: Discord: JonaSz#1307 | Email: jonaszek.info@gmail.com <br />
-👀 I’m interested in Basketball | Programming | Computer Games <br />
+<li> 🌱 I’m currently learning : Js / Python / CSS <br /></li>
+<li> 📫 How to reach me: Discord: JonaSz#1307 | Email: jonaszek.info@gmail.com <br /></li>
+<li> 👀 I’m interested in Basketball | Programming | Computer Games <br /></li>
 
