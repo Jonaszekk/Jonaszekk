@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaszekk&show_icons=true&theme=radical)
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<jonaszekk>)
+![GitHub Views](https://komarev.com/ghpvc/?username=jonaszekk)
 
 
 <li> 🌱 I’m currently learning : Js / Python / CSS <br /></li>
