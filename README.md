@@ -1,6 +1,6 @@
 Hello there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaszekk)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaszekk&show_icons=true&theme=radical)
 
 
 🌱 I’m currently learning : Js / Python / CSS 
