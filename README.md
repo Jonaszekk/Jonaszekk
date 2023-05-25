@@ -5,6 +5,6 @@
 
 <li> 🌱 I’m currently learning : JavaScript / Three.js / CSS <br/></li>
 <li> 📫 How to reach me: Discord: JonaSz#1307 | Email: jan_andrzejewski@outlook.com <br/></li>
-</li>💼 Linkedin: https://www.linkedin.com/in/jan-andrzejewski/ <br/></li>
+<li>💼 Linkedin: https://www.linkedin.com/in/jan-andrzejewski/ <br/></li>
 <li> 👀 I’m interested in Basketball | Programming | Manga&Anime | Computer Games <br/></li>
 
