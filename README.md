@@ -7,4 +7,4 @@
 <li> 📫 How to reach me: Discord: JonaSz#1307 | Email: jan_andrzejewski@outlook.com <br/></li>
 <li> 👀 I’m interested in Basketball | Programming | Manga&Anime | Computer Games <br/></li>
 
-<img src="https://komarev.com/ghpvc/?username=Jonaszekk&color=blueviolet"> </img>
+<li> <img src="https://komarev.com/ghpvc/?username=Jonaszekk&color=blueviolet"> </img> </li>
